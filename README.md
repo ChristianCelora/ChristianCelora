@@ -2,7 +2,7 @@
 - 👀 I’m interested in improving everyday!
 - 🌱 I’m currently Docker
 - 💞️ I’m looking to collaborate on small cool crazy projects
-- 📫 How to reach me christian.celora@gmail.com
+- 📫 How to reach me christian [dot] celora [at] gmail [dot] com
 
 <!---
 ChristianCelora/ChristianCelora is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
