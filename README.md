@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChristianCelora
 - 👀 I’m interested in improving everyday!
-- 🌱 I’m currently Docker
+- 🌱 I’m currently learning Docker
 - 💞️ I’m looking to collaborate on small cool crazy projects
 - 📫 How to reach me christian.celora@gmail.com
 
