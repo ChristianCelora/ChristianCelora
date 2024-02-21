@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @ChristianCelora
-- 👀 I’m interested in improving everyday!
-- 🌱 I’m currently learning Docker
-- 📖 I'm currently reading Beautiful Testing by Adam Goucher
+- 👀 I’m interested in improving every day!
+- 🌱 I’m currently learning Golang
+- 📖 I'm currently reading System Design Interview
 - 💞️ I’m looking to collaborate on small cool crazy projects
-- 📫 How to reach me christian.celora@gmail.com
+- 📫 How to reach me christian.celora [at] gmail.com
 
 <!---
 ChristianCelora/ChristianCelora is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
